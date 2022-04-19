@@ -18,3 +18,7 @@ ls
 rm -rf node_modules package-lock.json && npm install
 npm run serve
 exit
+vue add vuetify
+exit
+npm run serve
+exit
